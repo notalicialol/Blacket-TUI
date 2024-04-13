@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "A simple and easy to use interface that makes the usage of Blacket easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alicialol",
+  "license": "ISC"
+}
