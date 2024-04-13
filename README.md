@@ -1,1 +1,1 @@
-# Blacket-TUI
+<img src="./assets/logo.png" />
